@@ -1,0 +1,9 @@
+# goal
+int32 frontiers
+---
+# result time took to explore
+int32 frontiers
+vision_msgs/BoundingBox2DArray bbox
+---
+# feedback remaining fronteirs
+int32 frontiers
